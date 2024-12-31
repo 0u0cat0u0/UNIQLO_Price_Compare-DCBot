@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import re
 
-DISCORDTOKEN = 'MTIzNzg1OTk0NzU0MzQwMDU1MA.GlPv4b.Tc9owMj5cSzwIH_CPPe6kFKx90jEcX8W0aU-OA'
+DISCORDTOKEN = ''
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
